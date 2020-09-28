@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/nikhilthomas/dev/nyu/nyu-bridge-hw/week10'
+let g:netrw_dirhist_2='/Users/nikhilthomas/dev/nyu/nyu-bridge-hw'
+let g:netrw_dirhist_1='/Users/nikhilthomas/dev/nyu/nyu-bridge-hw/week10'
+let g:netrw_dirhist_0='/Users/nikhilthomas/dev/lox-rust'
+let g:netrw_dirhist_9='/Users/nikhilthomas/dev/nand2tetris/projects/03'
+let g:netrw_dirhist_8='/Users/nikhilthomas/dev/nyu/exam'
+let g:netrw_dirhist_7='/Users/nikhilthomas/dev/automata-regexp'
+let g:netrw_dirhist_6='/Users/nikhilthomas/dev/nyu/nyu-bridge-hw/week6'
+let g:netrw_dirhist_5='/Users/nikhilthomas/dev/lox-rust'
+let g:netrw_dirhist_4='/Users/nikhilthomas/dev'
